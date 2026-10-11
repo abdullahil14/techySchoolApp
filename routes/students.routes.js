@@ -11,9 +11,4 @@ router.get('/get-student-by-name', getStudentByName);
 router.delete('/delete-student/:id', deleteStudent);
 router.get('/get-student-by-email', getStudentByEmail);
 
-
-
-
-
-
 module.exports = router;
